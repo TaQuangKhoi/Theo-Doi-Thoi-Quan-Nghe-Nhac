@@ -5,3 +5,6 @@ Record music listening habit
 1. Chỉ theo dõi trên một thiết bị này.
 2. Theo dõi theo account - qua API của Last.fm
   - có thể làm riêng bằng token gì đó như Tiến nói :)
+
+## Giao diện
+- Theo kiểu sáng sủa hơn.
