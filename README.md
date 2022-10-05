@@ -1,4 +1,4 @@
-# Theo Doi Thoi Quen Nghe Nhac
+# Theo Dõi Thói Quen Nghe Nhạc
 Record music listening habit
 
 ## Hướng theo dõi
